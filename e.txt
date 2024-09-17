@@ -1,3 +1,5 @@
 line 1 in e.txt in main
 line 2 in main
 line 3 in main
+line 1 in main
+line 2 in new
